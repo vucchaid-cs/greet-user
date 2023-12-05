@@ -1,6 +1,6 @@
 module test-material
 
-go 1.21.3
+go 1.19
 
 require github.com/gaia-pipeline/gosdk v0.0.0-20180909192508-cc9f89055777
 
